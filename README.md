@@ -10,6 +10,9 @@ training:
 - pytorch1.10.2
 - colab GPU(Tesla P100)
 - numpy1.20.3
+testing:
+- >=pytorch1.9
+- colab GPU(Tesla P100)
 ## introduction
 there are 
 - 4 ipynb files
