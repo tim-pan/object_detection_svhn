@@ -34,22 +34,15 @@ preprocess the svhn dataset(i.e. convert mat file to the json file, and save it 
 The model para and all py files you need to reproduce the submission are embedded in the `inference.ipynb`, but if you want to check my weight para is normal, please follow this [link](https://drive.google.com/file/d/1fP4ZEEfgL05pj3hRZ8oqmaZ0uK1SM6Vi/view?usp=sharing)
 ## reference
 [1] Focal Loss for Dense Object Detection. by Tsung-Yi Lin, et al.</br>
-[2] https://github.com/yhenon/pytorch-retinanet
-
-[3]https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html 
-
-[4]https://github.com/pytorch/vision/tree/main/references/detection
-
-[5]Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. by Shaoqing Ren, et al.
-
-[6]https://colab.research.google.com/github/ozanpekmezci/capstone/blob/master/prepare-svhn.ipynb 
-
-[7]Bag of Freebies for Training Object Detection Neural Networks. By Zhi Zhang, et al.
-
+[2] https://github.com/yhenon/pytorch-retinanet</br>
+[3]https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html </br>
+[4]https://github.com/pytorch/vision/tree/main/references/detection</br>
+[5]Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. by Shaoqing Ren, et al.</br>
+[6]https://colab.research.google.com/github/ozanpekmezci/capstone/blob/master/prepare-svhn.ipynb </br>
+[7]Bag of Freebies for Training Object Detection Neural Networks. By Zhi Zhang, et al.</br>
 [8]Reading Digits in Natural Images with Unsupervised Feature Learning. By 
-Yuval Netzer, et al.
-
-[9]Microsoft COCO: Common Objects in Context. By Tsung-Yi Lin, et al.
+Yuval Netzer, et al.</br>
+[9]Microsoft COCO: Common Objects in Context. By Tsung-Yi Lin, et al.</br>
 
 
 
