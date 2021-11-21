@@ -33,8 +33,7 @@ preprocess the svhn dataset(i.e. convert mat file to the json file, and save it 
 **note** 
 The model para and all py files you need to reproduce the submission are embedded in the `inference.ipynb`, but if you want to check my weight para is normal, please follow this [link](https://drive.google.com/file/d/1fP4ZEEfgL05pj3hRZ8oqmaZ0uK1SM6Vi/view?usp=sharing)
 ## reference
-[1] Focal Loss for Dense Object Detection. by Tsung-Yi Lin, et al.
-
+[1] Focal Loss for Dense Object Detection. by Tsung-Yi Lin, et al.<\br>
 [2] https://github.com/yhenon/pytorch-retinanet
 
 [3]https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html 
