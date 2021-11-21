@@ -11,7 +11,7 @@ training:
 - colab GPU(Tesla P100)
 - numpy1.20.3
 testing:
-- >=pytorch1.9
+- pytorch1.9 or newer
 - colab GPU(Tesla P100)
 ## introduction
 there are 
