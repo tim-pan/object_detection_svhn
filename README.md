@@ -1,5 +1,4 @@
 # object_detection_svhn
-### object detection
 ---
 for TA: if you want to reproduce the submission
 you can download the `inference.ipynb` and run all
