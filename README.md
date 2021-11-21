@@ -10,6 +10,7 @@ training:
 - pytorch1.10.2
 - colab GPU(Tesla P100)
 - numpy1.20.3</br>
+
 testing:</br>
 - pytorch1.9 or newer
 - colab GPU(Tesla P100)
