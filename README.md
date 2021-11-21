@@ -29,7 +29,7 @@ preprocess the svhn dataset(i.e. convert mat file to the json file, and save it 
 ## reproduce
 - download `inference.ipynb` and just run it
 
-**note** 
+**note** </br>
 The model para and all py files you need to reproduce the submission are embedded in the `inference.ipynb`, but if you want to check my weight para is normal, please follow this [link](https://drive.google.com/file/d/1fP4ZEEfgL05pj3hRZ8oqmaZ0uK1SM6Vi/view?usp=sharing)
 ## reference
 [1] Focal Loss for Dense Object Detection. by Tsung-Yi Lin, et al.</br>
