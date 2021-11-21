@@ -17,10 +17,13 @@ there are
 
 **1. main.ipynb**
 this file is composed of all training procedures with my best model architecture.
+
 **2. experiment.ipynb**
 all the experiment implement code in the report.pdf on e3.
+
 **3. inference.ipynb**
 modified from the ipynb file TA attached.
+
 **4. prepare_svhn.ipynb**
 preprocess the svhn dataset(i.e. convert mat file to the json file, and save it in the dataset folder)
 
