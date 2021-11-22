@@ -43,6 +43,7 @@ The model para and all py files you need to reproduce the submission are embedde
 [8]Reading Digits in Natural Images with Unsupervised Feature Learning. By 
 Yuval Netzer, et al.</br>
 [9]Microsoft COCO: Common Objects in Context. By Tsung-Yi Lin, et al.</br>
+[10] Learning non-maximum suppression. By Jan Hosang, et al.
 
 
 
