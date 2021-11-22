@@ -1,9 +1,5 @@
 # object_detection_svhn
 ---
-for TA: if you want to reproduce the submission
-you can download the `inference.ipynb` and run all
-https://drive.google.com/file/d/10bLjbSh0zcq5bgut4gjO-o3hdaO6TrVG/view?usp=sharing
----
 ## task
 digit detection[8]
 ## Environment
@@ -34,7 +30,7 @@ preprocess the svhn dataset(i.e. convert mat file to the json file, and save it 
 ## reproduce
 - download `inference.ipynb` and just run it
 https://drive.google.com/file/d/10bLjbSh0zcq5bgut4gjO-o3hdaO6TrVG/view?usp=sharing
-**note** </br>
+</br>**note** </br>
 The model para and all py files you need to reproduce the submission are embedded in the `inference.ipynb`, but if you want to check my weight para is normal, please follow this [link](https://drive.google.com/file/d/1fP4ZEEfgL05pj3hRZ8oqmaZ0uK1SM6Vi/view?usp=sharing)
 ## reference
 [1] Focal Loss for Dense Object Detection. by Tsung-Yi Lin, et al.</br>
